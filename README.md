@@ -14,6 +14,6 @@ So, to be able to run : "dotnet run", I installed the .NET SDK for Linux and fol
 
 Then, on VS code I installed the C# extension.
 
-Since the .NET is installed at the root, I have to run : "export PATH="/home/kittycat/.dotnet:$PATH"".
+Since the .NET is installed at the root, I have to run : "export PATH="/home/$SSH-USERNAME/.dotnet:$PATH""
 
 To verify the path, run "echo $PATH"
