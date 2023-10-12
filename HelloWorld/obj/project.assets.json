@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/kittycat/.nuget/packages/": {}
+    "C:\\Users\\filip\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kittycat/code/KittySou/c-sharp-notes/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\filip\\Desktop\\KittySou\\c-sharp-notes\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "/home/kittycat/code/KittySou/c-sharp-notes/HelloWorld/HelloWorld.csproj",
-      "packagesPath": "/home/kittycat/.nuget/packages/",
-      "outputPath": "/home/kittycat/code/KittySou/c-sharp-notes/HelloWorld/obj/",
+      "projectPath": "C:\\Users\\filip\\Desktop\\KittySou\\c-sharp-notes\\HelloWorld\\HelloWorld.csproj",
+      "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\filip\\Desktop\\KittySou\\c-sharp-notes\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/kittycat/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\filip\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/kittycat/.dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

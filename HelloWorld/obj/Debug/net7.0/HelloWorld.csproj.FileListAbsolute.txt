@@ -12,3 +12,17 @@
 /home/kittycat/code/KittySou/c-sharp-notes/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
 /home/kittycat/code/KittySou/c-sharp-notes/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
 /home/kittycat/code/KittySou/c-sharp-notes/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
+C:\Users\filip\Desktop\KittySou\c-sharp-notes\HelloWorld\bin\Debug\net7.0\HelloWorld.exe
+C:\Users\filip\Desktop\KittySou\c-sharp-notes\HelloWorld\bin\Debug\net7.0\HelloWorld.deps.json
+C:\Users\filip\Desktop\KittySou\c-sharp-notes\HelloWorld\bin\Debug\net7.0\HelloWorld.runtimeconfig.json
+C:\Users\filip\Desktop\KittySou\c-sharp-notes\HelloWorld\bin\Debug\net7.0\HelloWorld.dll
+C:\Users\filip\Desktop\KittySou\c-sharp-notes\HelloWorld\bin\Debug\net7.0\HelloWorld.pdb
+C:\Users\filip\Desktop\KittySou\c-sharp-notes\HelloWorld\obj\Debug\net7.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\KittySou\c-sharp-notes\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\KittySou\c-sharp-notes\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfo.cs
+C:\Users\filip\Desktop\KittySou\c-sharp-notes\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\KittySou\c-sharp-notes\HelloWorld\obj\Debug\net7.0\HelloWorld.dll
+C:\Users\filip\Desktop\KittySou\c-sharp-notes\HelloWorld\obj\Debug\net7.0\refint\HelloWorld.dll
+C:\Users\filip\Desktop\KittySou\c-sharp-notes\HelloWorld\obj\Debug\net7.0\HelloWorld.pdb
+C:\Users\filip\Desktop\KittySou\c-sharp-notes\HelloWorld\obj\Debug\net7.0\HelloWorld.genruntimeconfig.cache
+C:\Users\filip\Desktop\KittySou\c-sharp-notes\HelloWorld\obj\Debug\net7.0\ref\HelloWorld.dll
